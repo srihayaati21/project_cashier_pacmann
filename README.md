@@ -1,17 +1,25 @@
 # project_cashier_pacmann
 #
-# Background Project
-Pembuatan Cashier sederhana ini bertujuan untuk membuat sistem self-service pada customer sehingga customer dapat langsung memasukkan item yang dibeli, jumlah item, dan fitur lainnya. 
-#
-# Tujuan Pengerjaan Project
-1. Membuat code sederhana yang dapat melakukan tugas: proses memasukkan barang ke dalam keranjang belanja, proses menghapus salah satu produk, proses menghapus keseluruhan produk, proses check keranjang, dan proses membayar
-2. Mengaplikasikan program yang berbasis OOP
-3. mengaplikasikan program modul
-# 
-# Deskripsi Task
-1. Module 'function_pacmannshop.py' memuat function untuk melakukan operasi self-service pada customer yaitu 'add_item()', 'remove_item()', 'delete_item()', check_keranjang(), 'checkout()'.
-2. Module 'main_pacmannshop.py' memuat function untuk menjalankan fetaures yang terdapat pada 'function_pacmannshop.py'
-#
+# Requirements/Objectives
+a. Membuat function 'input_item()' untuk melakukan proses memasukkan produk ke keranjang belanja.
+b. Membuat function 'remove_item()' untuk melakukan proses menghapus salah satu produk yang ada di keranjang belanja.
+c. Membuat function 'delete_item()' untuk menghapus seluruh produk yang ada di dalam keranjang belanja.
+d. Membuat functin 'check_keranjang()' untuk melihat produk yang ada di keranjang belanja.
+e. Membuat function 'checkout()' untuk melakukan proses pembayaran.
+
+# Alur Program/ Flowchart
+a. Langkah pertama yang akan dilakukan ialah mengisi nomor ID berupa angka random dan user ID berupa nama customer
+b. selanjutnya akan diberikan option proses belanja dan customer mengisi nomor yang ada pada menu 
+c. Jika customer memilih nomor 1(add item) maka akan melakukan proses di dalam function 'add_item()'yang akan memuncul daftar menu/ produk yang dijual beserta harga. kemudian customer diminta untuk mengisi produk, jumlah, dan harga. setelah itu akan kembali muncul option proses belanja. Jika customer mengisi nomor 1 maka akan mengulang proses sebelumnya.
+d. jika customer memilih nomor 2 (remove item) maka akan melakukan proses di dalam function 'remove_item()'. Customer diminta untuk mengisi produk, harga, dan jumlah produk yang ingin dihapus sesuai dengan yang sebelumnya sudah diisi (baik produk, harga, dan jumlah). setelah itu akan kembali muncul option proses belanja. Jika customer mengisi nomor 2 maka akan mengulang proses sebelumnya.
+e. Jika customer memilih nomor 3 (delete all item) maka akan melakukan proses pada function 'delete_item()' yang akan menghapus keseluruhan produk yang ada dikeranjang belanja
+f. Jika customer memilih nomor 4 (check keranjang) akan melakukan proses pada function 'check_keranjang()' untuk menampilkan keranjang belanja customer
+g. Jika customer memilih nomor 5 (checkout) maka akan melakukan proses pada function 'checkout()' yang akan menampilkan total bayar beserta apakah customer mendapat diskon atau tidak
+h. jika customer memilih nomor 0 maka akan menghentikan proses belanja
+
+# Penjelasan Code
+
+
 # Test Case
 1. Customer ingin menambahkan item dengan menggunakan method add_item().  Item yang ditambahkan adalah sebagai berikut:
 a) Nama item: Pisang, qty: 2, harga: 25000. 
