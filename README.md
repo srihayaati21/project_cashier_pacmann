@@ -18,8 +18,8 @@
 8. jika customer memilih nomor 0 maka akan menghentikan proses belanja
 9. Untuk mengecek setiap feature berhasil atau tidak dengan melakukan proses 'check_keranjang()'
    #
-   ![image.png](
-
+   ![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/flowchart.png)
+   
 # Penjelasan Code
 1. Script 'main.py' berfungsi untuk menjalankan code yang ada di dalam 'function_pacmannshop.py'
 2. Di dalam modul 'function_pacmannshop.py' 'class Belanja()' untuk memasukkan produk ke dalam keranjang belanja. terdiri dari beberapa function, yaitu:
