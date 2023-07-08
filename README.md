@@ -28,5 +28,6 @@ Output:
 ![image.png](https://drive.google.com/file/d/1C_du8Al7N6DUNMJcuBEjDKVOOU6PSQlh/view?usp=drive_link)
 5. Setelah customer selesai berbelanja kemudian ingin menghitung seluruh total belanja dengan menggunakan method checkout()
 Output:
-![image.png](https://drive.google.com/file/d/1kVnWiZuQkLTagSM8plujDwAfB87c8Llz/view?usp=drive_link)
+#
+![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/Screenshot%202023-07-08%20190332.png)
 
