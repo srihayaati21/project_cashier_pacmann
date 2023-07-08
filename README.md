@@ -14,8 +14,8 @@ Pembuatan Cashier sederhana ini bertujuan untuk membuat sistem self-service pada
 #
 # Test Case
 1. Customer ingin menambahkan item dengan menggunakan method add_item().  Item yang ditambahkan adalah sebagai berikut:
-\t a. Nama item: Pisang, qty: 2, harga: 25000
-b. Nama item: Mangga, qty: 3, harga: 30000.
+a_ Nama item: Pisang, qty: 2, harga: 25000
+b_ Nama item: Mangga, qty: 3, harga: 30000.
 Output:
 #
 ![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/Screenshot%202023-07-08%20190542.png)
