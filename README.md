@@ -17,6 +17,8 @@
 7. Jika customer memilih nomor 5 (checkout) maka akan melakukan proses pada function 'checkout()' yang akan menampilkan total bayar beserta apakah customer mendapat diskon atau tidak.
 8. jika customer memilih nomor 0 maka akan menghentikan proses belanja
 9. Untuk mengecek setiap feature berhasil atau tidak dengan melakukan proses 'check_keranjang()'
+   #
+   ![image.png](
 
 # Penjelasan Code
 1. Script 'main.py' berfungsi untuk menjalankan code yang ada di dalam 'function_pacmannshop.py'
