@@ -17,15 +17,16 @@ Pembuatan Cashier sederhana ini bertujuan untuk membuat sistem self-service pada
 a. Nama item: Pisang, qty: 2, harga: 25000
 b. Nama item: Mangga, qty: 3, harga: 30000
 Output:
+#
 ![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/Screenshot%202023-07-08%20190612.png)
 
-2. Ternyata customer salah membeli salah satu item dan ingin menghapusnya dengan menggunakan method remove_item() untuk menghapus item. Item yang ingin dihapus adalah Mangga.
+3. Ternyata customer salah membeli salah satu item dan ingin menghapusnya dengan menggunakan method remove_item() untuk menghapus item. Item yang ingin dihapus adalah Mangga.
 Output:
 ![image.png](https://drive.google.com/file/d/1mPskN1fkKFjNRQ_j45KT5UsBmIUMIMVH/view?usp=drive_link)
-3. Customer ingin menghapus seluruh item dengan menggunakan method delete_item().
+4. Customer ingin menghapus seluruh item dengan menggunakan method delete_item().
 Output:
 ![image.png](https://drive.google.com/file/d/1C_du8Al7N6DUNMJcuBEjDKVOOU6PSQlh/view?usp=drive_link)
-4. Setelah customer selesai berbelanja kemudian ingin menghitung seluruh total belanja dengan menggunakan method checkout()
+5. Setelah customer selesai berbelanja kemudian ingin menghitung seluruh total belanja dengan menggunakan method checkout()
 Output:
 ![image.png](https://drive.google.com/file/d/1kVnWiZuQkLTagSM8plujDwAfB87c8Llz/view?usp=drive_link)
 
