@@ -65,3 +65,8 @@
    ![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/Screenshot%202023-07-08%20190753.png)
    #
 
+# Conclusion/Future Work
+Project Cashier Pacmann ini memuat program untuk customer melakukan self-service dalam belanja. di dalam program ini memuat beberapa function yang kemudian membantu customer dalam proses belanja. Di dalam program ini banyak sekali kekurangannya yang dikemudian hari harus diperbaiki/ditingkatkan seperti: 
+1. Membuat fiture daftar menu yang hanya memasukkan nomor produk dalam list keranjang belanja
+2. Membuat fiture customer tidak perlu memasukkan harga
+3. Mengecilkan ruang lingkup kesalahan yang sekiranya akan dilakukan customer
