@@ -27,4 +27,5 @@ Output:
 4. Setelah customer selesai berbelanja kemudian ingin menghitung seluruh total belanja dengan menggunakan method checkout()
 Output:
 ![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/Screenshot%202023-07-08%20190332.png)
+#
 
