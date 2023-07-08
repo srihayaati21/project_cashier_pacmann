@@ -24,9 +24,10 @@ Output:
 4. Customer ingin menghapus seluruh item dengan menggunakan method delete_item().
 Output:
 ![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/Screenshot%202023-07-08%20190637.png)
-5. Setelah customer selesai berbelanja kemudian ingin menghitung seluruh total belanja dengan menggunakan method checkout()
+5. Setelah customer selesai berbelanja kemudian ingin menghitung seluruh total belanja dengan menggunakan method checkout().
 Output:
 ![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/Screenshot%202023-07-08%20190753.png)
 
-#catatan: untuk mengecek setiap feature berhasil atau tidak dengan melakukan proses 'check_keranjang()'
+
+catatan: untuk mengecek setiap feature berhasil atau tidak dengan melakukan proses 'check_keranjang()'
 
