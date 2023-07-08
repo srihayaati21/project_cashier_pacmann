@@ -8,7 +8,7 @@
 5. Membuat function 'checkout()' untuk melakukan proses pembayaran.
 
 # Alur Program/ Flowchart
-1. Langkah pertama yang akan dilakukan ialah mengisi nomor ID berupa angka random dan user ID berupa nama customer.
+1. Langkah pertama yang akan dilakukan ialah mengisi 'transaksi_id' berupa nama customer.
 2. Selanjutnya akan diberikan option proses belanja dan customer mengisi nomor yang ada pada menu.
 3. Jika customer memilih nomor 1(add item) maka akan melakukan proses di dalam function 'add_item()'yang akan memuncul daftar menu/ produk yang dijual beserta harga. kemudian customer diminta untuk mengisi produk, jumlah, dan harga. setelah itu akan kembali muncul option proses belanja. Jika customer mengisi nomor 1 maka akan mengulang proses sebelumnya.
 4. jika customer memilih nomor 2 (remove item) maka akan melakukan proses di dalam function 'remove_item()'. Customer diminta untuk mengisi produk, harga, dan jumlah produk yang ingin dihapus sesuai dengan yang sebelumnya sudah diisi (baik produk, harga, dan jumlah). setelah itu akan kembali muncul option proses belanja. Jika customer mengisi nomor 2 maka akan mengulang proses sebelumnya.
@@ -19,7 +19,29 @@
 
 # Penjelasan Code
 1. Script 'main.py' berfungsi untuk menjalankan code yang ada di dalam 'function_pacmannshop.py'
-2. 
+2. Di dalam modul 'function_pacmannshop.py' 'class Belanja()' untuk memasukkan produk ke dalam keranjang belanja. terdiri dari beberapa function, yaitu:
+   #
+   ![image.png](https://drive.google.com/file/d/1mvRlfhI2p7IQ9FSk4Xv8E9V1e4HWZTpx/view?usp=sharing)
+   #
+   a. 'add_item()' berfungsi untuk memasukkan produk ke dalam keranjang belanja
+   #
+   ![image.png](https://drive.google.com/file/d/1NcnmDXEC-QeztRkIWgWz6QQ45Pa6TCkA/view?usp=sharing)
+   #
+   b. 'remove_item()' berfungsi untuk menghapus salah satu produk dalam keranjang belanja
+   #
+   ![image.png]
+   #
+   c. 'delete_item()' berfungsi untuk menghapus keseluruhan produk dalam keranjang belanja
+   #
+   ![image.png]
+   #
+   d. 'check_keranjang()' berfungsi untuk mengecek produk apa saja yang ada dalam keranjang belanja
+   #
+   ![image.png]
+   #
+   e. 'check_out()' berfungsi untuk mentotalkan keseluruhan belanja
+   #
+   ![image.png]
 
 # Test Case
 1. Customer ingin menambahkan item dengan menggunakan method add_item().  Item yang ditambahkan adalah sebagai berikut:
