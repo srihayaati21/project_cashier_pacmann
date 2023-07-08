@@ -17,22 +17,15 @@ Pembuatan Cashier sederhana ini bertujuan untuk membuat sistem self-service pada
 a. Nama item: Pisang, qty: 2, harga: 25000
 b. Nama item: Mangga, qty: 3, harga: 30000
 #
-Output:
-# 
-![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/Screenshot%202023-07-08%20190612.png)
+Output: ![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/Screenshot%202023-07-08%20190612.png)
 3. Ternyata customer salah membeli salah satu item dan ingin menghapusnya dengan menggunakan method remove_item() untuk menghapus item. Item yang ingin dihapus adalah Mangga.
-Output:
-\n ![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/Screenshot%202023-07-08%20190612.png)
+Output: ![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/Screenshot%202023-07-08%20190612.png)
 4. Customer ingin menghapus seluruh item dengan menggunakan method delete_item().
 #
-Output:
-#
-![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/Screenshot%202023-07-08%20190637.png)
+Output: ![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/Screenshot%202023-07-08%20190637.png)
 5. Setelah customer selesai berbelanja kemudian ingin menghitung seluruh total belanja dengan menggunakan method checkout().
 # 
-Output:
-#
-![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/Screenshot%202023-07-08%20190753.png)
+Output: ![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/Screenshot%202023-07-08%20190753.png)
 
 
 catatan: untuk mengecek setiap feature berhasil atau tidak dengan melakukan proses 'check_keranjang()'
