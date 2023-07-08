@@ -16,32 +16,33 @@
 6. Jika customer memilih nomor 4 (check keranjang) akan melakukan proses pada function 'check_keranjang()' untuk menampilkan keranjang belanja customer.
 7. Jika customer memilih nomor 5 (checkout) maka akan melakukan proses pada function 'checkout()' yang akan menampilkan total bayar beserta apakah customer mendapat diskon atau tidak.
 8. jika customer memilih nomor 0 maka akan menghentikan proses belanja
+9. Untuk mengecek setiap feature berhasil atau tidak dengan melakukan proses 'check_keranjang()'
 
 # Penjelasan Code
 1. Script 'main.py' berfungsi untuk menjalankan code yang ada di dalam 'function_pacmannshop.py'
 2. Di dalam modul 'function_pacmannshop.py' 'class Belanja()' untuk memasukkan produk ke dalam keranjang belanja. terdiri dari beberapa function, yaitu:
    #
-   ![image.png](https://drive.google.com/file/d/1mvRlfhI2p7IQ9FSk4Xv8E9V1e4HWZTpx/view?usp=sharing)
+   ![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/class%202.png)
    #
    a. 'add_item()' berfungsi untuk memasukkan produk ke dalam keranjang belanja
    #
-   ![image.png](https://drive.google.com/file/d/1NcnmDXEC-QeztRkIWgWz6QQ45Pa6TCkA/view?usp=sharing)
+   ![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/F.1.C.2.png)
    #
    b. 'remove_item()' berfungsi untuk menghapus salah satu produk dalam keranjang belanja
    #
-   ![image.png]
+   ![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/F.2.C.2.png)
    #
    c. 'delete_item()' berfungsi untuk menghapus keseluruhan produk dalam keranjang belanja
    #
-   ![image.png]
+   ![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/F.3.C.2.png)
    #
    d. 'check_keranjang()' berfungsi untuk mengecek produk apa saja yang ada dalam keranjang belanja
    #
-   ![image.png]
+   ![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/F.4.C.2.png)
    #
    e. 'check_out()' berfungsi untuk mentotalkan keseluruhan belanja
    #
-   ![image.png]
+   ![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/F.5.C.2.png)
 
 # Test Case
 1. Customer ingin menambahkan item dengan menggunakan method add_item().  Item yang ditambahkan adalah sebagai berikut:
@@ -63,5 +64,4 @@ Output:
 #
 ![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/Screenshot%202023-07-08%20190753.png)
 #
-catatan: untuk mengecek setiap feature berhasil atau tidak dengan melakukan proses 'check_keranjang()'
 
