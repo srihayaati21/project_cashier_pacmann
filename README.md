@@ -17,7 +17,7 @@ Pembuatan Cashier sederhana ini bertujuan untuk membuat sistem self-service pada
 a. Nama item: Pisang, qty: 2, harga: 25000
 b. Nama item: Mangga, qty: 3, harga: 30000
 Output:
-![image.png](https://drive.google.com/file/d/122fhAR4TKd6uu4Ri6ftDYYyrVvC4bwmQ/view?usp=drive_link)
+![image.png](https://github.com/srihayaati21/project_cashier_pacmann/blob/main/Screenshot%202023-07-08%20190612.png)
 2. Ternyata customer salah membeli salah satu item dan ingin menghapusnya dengan menggunakan method remove_item() untuk menghapus item. Item yang ingin dihapus adalah Mangga.
 Output:
 ![image.png](https://drive.google.com/file/d/1mPskN1fkKFjNRQ_j45KT5UsBmIUMIMVH/view?usp=drive_link)
