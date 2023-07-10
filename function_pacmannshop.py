@@ -37,11 +37,14 @@ class Belanja():
         total_harga = 0
         discount = 0
         for i in range (len(self.nama_buah)):
-            total_harga += int(self.harga_buah[i]) * int(self.jumlah_buah[i]) - discount
-            if total_harga >= 150000:
-                print("You Get Discount 10%")
-                discount = 0.1 * total_harga
-        print(f"Total Bayar: Rp. {total_harga}")
+            total_harga = total_harga + int(self.harga_buah[i]) * int(self.jumlah_buah[i])
+            print(f"Total Bayar: Rp. {total_harga} ")
+            pass
+        if total_harga >= 150000:
+            discount = total_harga * 0.1
+            total_bayar = total_harga - discount
+            print("You Get Discount 10%")
+            print(f"Total Bayar: Rp. {total_bayar} ")
                 
 
 
